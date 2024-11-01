@@ -1,0 +1,10 @@
+order_id,customer_name,status,order_date,shipping_date,delivery_date,shipping_address,carrier,tracking_number,item_description,quantity,shipping_cost
+0,Alice Johnson,Shipped,2023-10-25,2023-10-27,2023-11-05,"123 Maple St, Springfield",FedEx,1Z9999,Laptop,1,15.99
+1,Bob Smith,Processing,2023-10-28,2023-10-29,2023-11-07,"456 Oak St, Springfield",UPS,1Z9988,Smartphone,1,10.5
+2,Charlie Brown,Delivered,2023-10-20,2023-10-22,2023-10-31,"789 Pine St, Springfield",USPS,9400,Tablet,1,12.0
+3,David Lee,Shipped,2023-10-26,2023-10-29,2023-11-06,"321 Cedar St, Springfield",DHL,JD0001,Headphones,2,8.75
+4,Eve Thompson,Cancelled,2023-10-29,2023-10-30,2023-10-30,"654 Elm St, Springfield",UPS,1Z9977,Smartwatch,1,0.0
+5,Frank White,Processing,2023-10-30,2023-10-31,2023-11-08,"987 Birch St, Springfield",UPS,1Z9966,Camera,1,9.25
+6,Grace Miller,Delivered,2023-10-19,2023-10-21,2023-10-30,"111 Spruce St, Springfield",FedEx,1Z8888,Bluetooth Speaker,1,7.8
+7,Hannah Adams,Shipped,2023-10-27,2023-10-30,2023-11-09,"222 Walnut St, Springfield",DHL,JD0002,E-reader,1,6.9
+8,Isaac Clark,Pending,2023-10-31,2023-11-01,2023-11-10,"333 Chestnut St, Springfield",USPS,9401,Wireless Mouse,3,5.5

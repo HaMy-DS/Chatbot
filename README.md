@@ -13,8 +13,12 @@ There are three main components: The chatbot, the indexer and the Pinecone index
 
 * The indexer crawls the source of truth, generates vector embeddings for the retrieved documents and writes those embeddings to Pinecone
 * A user makes a query to the chatbot
-*The chatbot queries Pinecone for the source of true
+* The chatbot queries Pinecone for the source of true
 * The chatbot responds to the user.
 * Let’s take a deeper look at the Indexer:
+
+```shipping_data.csv``` database used for query
+```shipping_status_chatbot.ipynb``` my code for setting chatbot
+
 
 

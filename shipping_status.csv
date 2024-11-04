@@ -1,0 +1,10 @@
+order_id,customer_name,status,order_date,shipping_date,delivery_date,shipping_address,carrier,tracking_number,item_description,quantity,shipping_cost,shipper_name,shipper_phone_number,current_location
+0,Alice Johnson,Shipped,2023-10-25,2023-10-27,2023-11-05,"123 Maple St, Chicago",FedEx,1Z9999,Laptop,1,15.99,John Doe,+1-800-463-3339,"123 Maple St, Chicago"
+1,Bob Smith,Processing,2023-10-28,2023-10-29,2023-11-07,"456 Oak St, New York",UPS,1Z9988,Smartphone,1,10.5,Sarah Lee,+1-800-742-5877,New York
+2,Charlie Brown,Delivered,2023-10-20,2023-10-22,2023-10-31,"789 Pine St, Los Angeles",USPS,9400,Tablet,1,12.0,Delivered,+1-800-275-8777,Los Angeles
+3,David Lee,Shipped,2023-10-26,2023-10-29,2023-11-06,"321 Cedar St, Houston",DHL,JD0001,Headphones,2,8.75,Michael Brown,+1-800-225-5345,"321 Cedar St, Houston"
+4,Eve Thompson,Cancelled,2023-10-29,2023-10-30,2023-10-30,"654 Elm St, Miami",UPS,1Z9977,Smartwatch,1,0.0,Cancelled,+1-800-742-5877,Miami
+5,Frank White,Processing,2023-10-30,2023-10-31,2023-11-08,"987 Birch St, Phoenix",UPS,1Z9966,Camera,1,9.25,Emily Smith,+1-800-742-5877,Phoenix
+6,Grace Miller,Delivered,2023-10-19,2023-10-21,2023-10-30,"111 Spruce St, San Francisco",FedEx,1Z8888,Bluetooth Speaker,1,7.8,Delivered,+1-800-463-3339,San Francisco
+7,Hannah Adams,Shipped,2023-10-27,2023-10-30,2023-11-09,"222 Walnut St, Seattle",DHL,JD0002,E-reader,1,6.9,Carlos Green,+1-800-225-5345,"222 Walnut St, Seattle"
+8,Isaac Clark,Pending,2023-10-31,2023-11-01,2023-11-10,"333 Chestnut St, Denver",USPS,9401,Wireless Mouse,3,5.5,Pending,+1-800-275-8777,Denver

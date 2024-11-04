@@ -30,7 +30,7 @@ There are three main components: The chatbot, the indexer and the Pinecone index
 * tracking_number: the unique number that the admin use for tracking more details of the order if there is any problem.
 * item_description: one of the information on the contents of the package. It is the name of item the customer ordered.
 * quantity: one of the information on the contents of the package. It express the number of item in the package ordered.
-* shipping_cost: the cost of the order the customer must pay.
+* shipping_cost: the cost of the order or the price of the package that the customer must pay.
 * shipper_name: the name of the person deliver your order or the shipper/carrier
 * shipper_phone_number: the phone number of your shipper, you can contact with the shipper by this.
 * current_location: the location of the order in realtime, if the order was shipped, this location will be the shipping address.

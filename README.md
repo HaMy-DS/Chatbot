@@ -17,7 +17,7 @@ There are three main components: The chatbot, the indexer and the Pinecone index
 * The chatbot responds to the user.
 * Let’s take a deeper look at the Indexer:
 
-```shipping_data.csv``` database used for query
+```shipping_status.csv``` database used for query
 
 * order_id: order identification number of order and used to track which order customer want to ask.
 * customer_name: the name of the person receive the order

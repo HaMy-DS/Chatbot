@@ -40,3 +40,11 @@ There are three main components: The chatbot, the indexer and the Pinecone index
 
 
 
+<p align="center">
+<img width="550" src="https://github.com/user-attachments/assets/95f214a6-5aec-47e4-ba2e-444586c1bad4">
+</p>
+
+
+
+
+
